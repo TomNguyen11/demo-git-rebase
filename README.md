@@ -1,0 +1,1 @@
+This is repository is used in order to demo command "git rebase"
